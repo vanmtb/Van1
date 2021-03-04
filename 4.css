@@ -1,0 +1,24 @@
+#content{
+    width: 800px; background-color: green;
+    height: 500px;
+    float:left;
+}
+#right{
+    width: 190px; 
+    margin-left: 10px;
+    height: 500px;
+    float: left;
+}
+#right>img{
+    width: 180px;
+    margin-bottom: 20px;
+    height: 150px;
+}
+iframe{
+    width: 800px;
+    height: 500px;
+}
+#wrapper{
+    width: 1000px;
+    height: 500px;
+}
